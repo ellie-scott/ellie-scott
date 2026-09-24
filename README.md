@@ -77,7 +77,79 @@ Software developer focused on automation, internal platforms, and practical AI e
 ### Live Coding Pulse
 
 <!--START_SECTION:waka-->
-<!-- WakaTime GitHub Action automatically populates stats here -->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 27.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 247 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 2 Public Repositories 
+ > 
+> 🔑 9 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                62 commits          ██████░░░░░░░░░░░░░░░░░░░   23.66 % 
+🌆 Daytime                178 commits         █████████████████░░░░░░░░   67.94 % 
+🌃 Evening                20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
+🌙 Night                  2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   55 commits          █████░░░░░░░░░░░░░░░░░░░░   20.99 % 
+Tuesday                  57 commits          █████░░░░░░░░░░░░░░░░░░░░   21.76 % 
+Wednesday                51 commits          █████░░░░░░░░░░░░░░░░░░░░   19.47 % 
+Thursday                 49 commits          █████░░░░░░░░░░░░░░░░░░░░   18.70 % 
+Friday                   50 commits          █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
+Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Chicago
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   5 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
+Jinja                    4 repos             ███████░░░░░░░░░░░░░░░░░░   26.67 % 
+Shell                    2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+PLSQL                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/ellie-scott/ellie-scott/main/assets/bar_graph.png)
+
+
+ Last Updated on 24/09/2026 22:08:18 UTC
 <!--END_SECTION:waka-->
 
 ---
