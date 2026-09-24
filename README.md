@@ -153,5 +153,4 @@ PLSQL                    1 repo              ██░░░░░░░░░�
   <img height="165" src="https://github-readme-stats-five-black.vercel.app/api/top-langs/?username=ellie-scott&layout=compact&theme=dark&hide_border=true&hide=html,css" alt="Top Languages" />
 =======
   <img src="https://raw.githubusercontent.com/ellie-scott/ellie-scott/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake" />
->>>>>>> 97eee38 (Revamp profile README with neon AI theme and add snake workflow)
 </p>
