@@ -1,10 +1,71 @@
-# Hi, I'm Ellie Scott 👋
+# Ellie Scott // Building AI in Public
 
-Software Engineer. Getting pretty deep into AI lately.
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=00A3AD&background=0D111700&vCenter=true&width=840&lines=Software+Engineer+%7C+AI+Experimenter;Prompt+to+Production+%7C+Fast+Iterations;Python+%2B+TypeScript+%2B+Applied+ML" alt="Animated intro text describing Ellie Scott's AI engineering focus" />
+</p>
+
+I ship practical AI experiments, fast prototypes, and production-minded tooling.
+
+<p align="left">
+  <a href="https://github.com/ellie-scott?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/ellie-scott?style=for-the-badge&label=Followers&labelColor=0D1117&color=3C1E70" />
+  </a>
+  <a href="https://github.com/ellie-scott?tab=repositories">
+    <img alt="Public repositories" src="https://img.shields.io/badge/Public_Repos-View-0D5C63?style=for-the-badge&labelColor=0D1117" />
+  </a>
+  <a href="https://github.com/ellie-scott">
+    <img alt="Profile views" src="https://komarev.com/ghpvc/?username=ellie-scott&style=for-the-badge&color=006D77&label=Profile+Views" />
+  </a>
+</p>
 
 ---
 
-### 📊 This week's stack..
+### Featured AI Experiments
+
+- `Agentic workflow patterns`: rapid loops for retrieval, orchestration, and evaluation.
+- `LLM product prototypes`: practical UX over demo-only novelty.
+- `Automation experiments`: scripting + AI for repeatable personal productivity wins.
+
+> Want the quick tour? Check pinned repos for active builds and latest experiments.
+
+---
+
+### Now / Next
+
+- Building: stronger eval harnesses for model quality and latency trade-offs.
+- Exploring: lightweight agent architectures and tool-calling reliability.
+- Next up: tighter observability for prompt and response quality over time.
+
+---
+
+### Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3C1E70?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117)
+![TypeScript](https://img.shields.io/badge/TypeScript-005A8D?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0D1117)
+![Go](https://img.shields.io/badge/Go-0B5563?style=for-the-badge&logo=go&logoColor=white&labelColor=0D1117)
+![Rust](https://img.shields.io/badge/Rust-4C2C92?style=for-the-badge&logo=rust&logoColor=white&labelColor=0D1117)
+
+![PyTorch](https://img.shields.io/badge/PyTorch-6A1B9A?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=0D1117)
+![OpenAI](https://img.shields.io/badge/OpenAI-004E57?style=for-the-badge&logo=openai&logoColor=white&labelColor=0D1117)
+![Docker](https://img.shields.io/badge/Docker-1B3A8A?style=for-the-badge&logo=docker&logoColor=white&labelColor=0D1117)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-004C54?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0D1117)
+
+---
+
+### Overview
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ellie-scott&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellie-scott&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ellie-scott&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
+</p>
+
+---
+
+### Live Coding Pulse
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
@@ -84,17 +145,13 @@ PLSQL                    1 repo              ██░░░░░░░░░�
 
 ---
 
-### 🛠️ Tech Stack & Tools
-
-![Languages](https://img.shields.io/badge/Languages-Python%20%7C%20TypeScript%20%7C%20Go%20%7C%20Rust-blue?style=flat-square)
-![DevOps](https://img.shields.io/badge/DevOps-Docker%20%7C%20Kubernetes%20%7C%20AWS-orange?style=flat-square)
-![Databases](https://img.shields.io/badge/Databases-PostgreSQL%20%7C%20Redis-green?style=flat-square)
-
----
-
-### 📈 Overview
+### Motion
 
 <p align="center">
+<<<<<<< HEAD
   <img height="165" src="https://github-readme-stats-five-black.vercel.app/api?username=ellie-scott&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img height="165" src="https://github-readme-stats-five-black.vercel.app/api/top-langs/?username=ellie-scott&layout=compact&theme=dark&hide_border=true&hide=html,css" alt="Top Languages" />
+=======
+  <img src="https://raw.githubusercontent.com/ellie-scott/ellie-scott/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake" />
+>>>>>>> 97eee38 (Revamp profile README with neon AI theme and add snake workflow)
 </p>
