@@ -1,10 +1,10 @@
 # Ellie Scott // Building AI in Public
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=00A3AD&background=0D111700&vCenter=true&width=860&lines=Software+Developer+%7C+AI+Experimenter;Prompt+to+Prototype+%7C+Fast+Iterations;Python+%2B+TypeScript+%2B+Applied+ML" alt="Animated intro text describing Ellie Scott's software developer and AI experimentation focus" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=00A3AD&background=0D111700&vCenter=true&width=980&lines=Software+Developer+%7C+Automation+%2B+Platform+Tooling;Infra-backed+Apps+%7C+Python+%2B+Terraform+%2B+CI%2FCD;Applied+AI+Experiments+Where+They+Actually+Help" alt="Animated intro text describing Ellie Scott's software developer and automation focus" />
 </p>
 
-Software developer exploring practical AI and sharing what I learn in public.
+Software developer focused on automation, internal platforms, and practical AI experiments.
 
 <p align="left">
   <a href="https://github.com/ellie-scott?tab=followers">
@@ -34,6 +34,16 @@ Software developer exploring practical AI and sharing what I learn in public.
 - Building: more AI experiments that move from prompt ideas into usable software.
 - Improving: measurable quality checks for outputs, latency, and reliability.
 - Sharing: repeatable patterns that help other developers ship faster.
+
+---
+
+### What I Ship At Work
+
+- Infrastructure automation for cloud and security platform workflows.
+- Internal apps and forms that support real operational processes.
+- CI/CD and self-hosted runner pipelines for reliable team delivery.
+- Certificate and service integrations that reduce manual ops overhead.
+- Applied AI experiments where they improve developer productivity.
 
 ---
 
