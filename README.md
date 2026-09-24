@@ -19,26 +19,26 @@ Software Engineer. Getting pretty deep into AI lately.
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 1 Public Repository 
+> 📜 2 Public Repositories 
  > 
-> 🔑 9 Private Repository 
+> 🔑 9 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                8 commits           ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
-🌆 Daytime                38 commits          ███████████████░░░░░░░░░░   61.29 % 
-🌃 Evening                14 commits          ██████░░░░░░░░░░░░░░░░░░░   22.58 % 
-🌙 Night                  2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+🌞 Morning                62 commits          ██████░░░░░░░░░░░░░░░░░░░   24.03 % 
+🌆 Daytime                174 commits         █████████████████░░░░░░░░   67.44 % 
+🌃 Evening                20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
+🌙 Night                  2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
 ```
-📅 **I'm Most Productive on Wednesday** 
+📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   7 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
-Tuesday                  12 commits          █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
-Wednesday                27 commits          ███████████░░░░░░░░░░░░░░   43.55 % 
-Thursday                 14 commits          ██████░░░░░░░░░░░░░░░░░░░   22.58 % 
-Friday                   2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+Monday                   55 commits          █████░░░░░░░░░░░░░░░░░░░░   21.32 % 
+Tuesday                  57 commits          ██████░░░░░░░░░░░░░░░░░░░   22.09 % 
+Wednesday                51 commits          █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
+Thursday                 45 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
+Friday                   50 commits          █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
 Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
@@ -62,14 +62,14 @@ No Activity Tracked This Week
 No AI Coding Activity Tracked This Week
 ```
 
-**I Mostly Code in Shell** 
+**I Mostly Code in Python** 
 
 ```text
-Shell                    2 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
-JavaScript               1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Python                   1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-PLSQL                    1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Jinja                    1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Python                   4 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+Jinja                    4 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+Shell                    2 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+PLSQL                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
 ```
 
 
@@ -79,7 +79,7 @@ Jinja                    1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ellie-scott/ellie-scott/main/assets/bar_graph.png)
 
 
- Last Updated on 24/09/2026 21:19:10 UTC
+ Last Updated on 24/09/2026 21:38:09 UTC
 <!--END_SECTION:waka-->
 
 ---
