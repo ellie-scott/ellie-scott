@@ -95,6 +95,6 @@ Jinja                    1 repo              ████░░░░░░░�
 ### 📈 Overview
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ellie-scott&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellie-scott&layout=compact&theme=dark&hide_border=true&hide=html,css" />
+  <img height="165" src="https://github-readme-stats-970g23zbl-ellie-scott.vercel.app/api?username=ellie-scott&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats-970g23zbl-ellie-scott.vercel.app/api/top-langs/?username=ellie-scott&layout=compact&theme=dark&hide_border=true&hide=html,css" alt="Top Languages" />
 </p>
