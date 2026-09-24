@@ -13,7 +13,7 @@ Software Engineer. Getting pretty deep into AI lately.
 
 **🐱 My GitHub Data** 
 
-> 📦 ? Used in GitHub's Storage 
+> 📦 27.5 kB Used in GitHub's Storage 
  > 
 > 🏆 239 Contributions in the Year 2026
  > 
@@ -21,7 +21,7 @@ Software Engineer. Getting pretty deep into AI lately.
  > 
 > 📜 1 Public Repository 
  > 
-> 🔑 0 Private Repository 
+> 🔑 8 Private Repository 
  > 
 **I'm an Early 🐤** 
 
@@ -79,7 +79,7 @@ Jinja                    1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ellie-scott/ellie-scott/main/assets/bar_graph.png)
 
 
- Last Updated on 24/09/2026 21:05:55 UTC
+ Last Updated on 24/09/2026 21:14:36 UTC
 <!--END_SECTION:waka-->
 
 ---
