@@ -16,7 +16,7 @@ jobs:
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.WAKATIME_ACTION_TOKEN }}
           SHOW_OS: "false"
           SHOW_PROJECTS: "false"
           SHOW_TITLE: "true"
