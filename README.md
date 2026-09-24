@@ -1,17 +1,17 @@
 # Ellie Scott // Building AI in Public
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=00A3AD&background=0D111700&vCenter=true&width=840&lines=Software+Engineer+%7C+AI+Experimenter;Prompt+to+Production+%7C+Fast+Iterations;Python+%2B+TypeScript+%2B+Applied+ML" alt="Animated intro text describing Ellie Scott's AI engineering focus" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=00A3AD&background=0D111700&vCenter=true&width=860&lines=Software+Developer+%7C+AI+Experimenter;Prompt+to+Prototype+%7C+Fast+Iterations;Python+%2B+TypeScript+%2B+Applied+ML" alt="Animated intro text describing Ellie Scott's software developer and AI experimentation focus" />
 </p>
 
-I ship practical AI experiments, fast prototypes, and production-minded tooling.
+Software developer exploring practical AI and sharing what I learn in public.
 
 <p align="left">
   <a href="https://github.com/ellie-scott?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/ellie-scott?style=for-the-badge&label=Followers&labelColor=0D1117&color=3C1E70" />
   </a>
   <a href="https://github.com/ellie-scott?tab=repositories">
-    <img alt="Public repositories" src="https://img.shields.io/badge/Public_Repos-View-0D5C63?style=for-the-badge&labelColor=0D1117" />
+    <img alt="Public repositories" src="https://img.shields.io/badge/Public_Repos-2-0D5C63?style=for-the-badge&labelColor=0D1117" />
   </a>
   <a href="https://github.com/ellie-scott">
     <img alt="Profile views" src="https://komarev.com/ghpvc/?username=ellie-scott&style=for-the-badge&color=006D77&label=Profile+Views" />
@@ -20,21 +20,20 @@ I ship practical AI experiments, fast prototypes, and production-minded tooling.
 
 ---
 
-### Featured AI Experiments
+### Featured Work (from public repos)
 
-- `Agentic workflow patterns`: rapid loops for retrieval, orchestration, and evaluation.
-- `LLM product prototypes`: practical UX over demo-only novelty.
-- `Automation experiments`: scripting + AI for repeatable personal productivity wins.
+- [`ellie-scott`](https://github.com/ellie-scott/ellie-scott): profile repo with automated WakaTime metrics and dynamic profile visuals.
+- [`github-readme-stats`](https://github.com/ellie-scott/github-readme-stats): fork used for experimenting with readme stat cards and profile customization.
 
-> Want the quick tour? Check pinned repos for active builds and latest experiments.
+> As more AI projects become public, this section will track my current active work.
 
 ---
 
 ### Now / Next
 
-- Building: stronger eval harnesses for model quality and latency trade-offs.
-- Exploring: lightweight agent architectures and tool-calling reliability.
-- Next up: tighter observability for prompt and response quality over time.
+- Building: more AI experiments that move from prompt ideas into usable software.
+- Improving: measurable quality checks for outputs, latency, and reliability.
+- Sharing: repeatable patterns that help other developers ship faster.
 
 ---
 
@@ -68,79 +67,7 @@ I ship practical AI experiments, fast prototypes, and production-minded tooling.
 ### Live Coding Pulse
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
-
-**🐱 My GitHub Data** 
-
-> 📦 27.5 kB Used in GitHub's Storage 
- > 
-> 🏆 241 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 2 Public Repositories 
- > 
-> 🔑 9 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                62 commits          ██████░░░░░░░░░░░░░░░░░░░   24.03 % 
-🌆 Daytime                174 commits         █████████████████░░░░░░░░   67.44 % 
-🌃 Evening                20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
-🌙 Night                  2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   55 commits          █████░░░░░░░░░░░░░░░░░░░░   21.32 % 
-Tuesday                  57 commits          ██████░░░░░░░░░░░░░░░░░░░   22.09 % 
-Wednesday                51 commits          █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
-Thursday                 45 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
-Friday                   50 commits          █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
-Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Chicago
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   4 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-Jinja                    4 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-Shell                    2 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-PLSQL                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/ellie-scott/ellie-scott/main/assets/bar_graph.png)
-
-
- Last Updated on 24/09/2026 21:38:09 UTC
+<!-- WakaTime GitHub Action automatically populates stats here -->
 <!--END_SECTION:waka-->
 
 ---
@@ -148,9 +75,5 @@ PLSQL                    1 repo              ██░░░░░░░░░�
 ### Motion
 
 <p align="center">
-<<<<<<< HEAD
-  <img height="165" src="https://github-readme-stats-five-black.vercel.app/api?username=ellie-scott&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats-five-black.vercel.app/api/top-langs/?username=ellie-scott&layout=compact&theme=dark&hide_border=true&hide=html,css" alt="Top Languages" />
-=======
   <img src="https://raw.githubusercontent.com/ellie-scott/ellie-scott/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake" />
 </p>
