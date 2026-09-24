@@ -1,6 +1,6 @@
-# Hi, I'm Ellie Scott
+# Hi, I'm Ellie Scott 👋
 
-Software Engineer. Getting pretty deep into AI lately. 
+Software Engineer. Getting pretty deep into AI lately.
 
 ---
 
@@ -23,6 +23,6 @@ Software Engineer. Getting pretty deep into AI lately.
 ### 📈 Overview
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true&hide=html,css" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ellie-scott&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellie-scott&layout=compact&theme=dark&hide_border=true&hide=html,css" />
 </p>
