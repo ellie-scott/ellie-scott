@@ -77,8 +77,6 @@ Software developer focused on automation, internal platforms, and practical AI e
 ### Live Coding Pulse
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -120,10 +118,14 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 14 mins             ███████████░░░░░░░░░░░░░░   43.05 % 
+Python                   5 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
+YAML                     5 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
+XML                      5 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
+GitIgnore file           1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ IDEA            33 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -149,7 +151,7 @@ PLSQL                    1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ellie-scott/ellie-scott/main/assets/bar_graph.png)
 
 
- Last Updated on 25/09/2026 03:52:33 UTC
+ Last Updated on 25/09/2026 11:21:56 UTC
 <!--END_SECTION:waka-->
 
 ---
