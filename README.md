@@ -83,32 +83,32 @@ Software developer focused on automation, internal platforms, and practical AI e
 
 **🐱 My GitHub Data** 
 
-> 📦 27.6 kB Used in GitHub's Storage 
+> 📦 28.3 kB Used in GitHub's Storage 
  > 
-> 🏆 249 Contributions in the Year 2026
+> 🏆 254 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 2 Public Repositories 
  > 
-> 🔑 9 Private Repositories 
+> 🔑 10 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                62 commits          ██████░░░░░░░░░░░░░░░░░░░   23.66 % 
-🌆 Daytime                178 commits         █████████████████░░░░░░░░   67.94 % 
-🌃 Evening                20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-🌙 Night                  2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+🌞 Morning                54 commits          ██████░░░░░░░░░░░░░░░░░░░   24.00 % 
+🌆 Daytime                150 commits         █████████████████░░░░░░░░   66.67 % 
+🌃 Evening                19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
+🌙 Night                  2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   55 commits          █████░░░░░░░░░░░░░░░░░░░░   20.99 % 
-Tuesday                  57 commits          █████░░░░░░░░░░░░░░░░░░░░   21.76 % 
-Wednesday                51 commits          █████░░░░░░░░░░░░░░░░░░░░   19.47 % 
-Thursday                 49 commits          █████░░░░░░░░░░░░░░░░░░░░   18.70 % 
-Friday                   50 commits          █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
+Monday                   32 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
+Tuesday                  51 commits          ██████░░░░░░░░░░░░░░░░░░░   22.67 % 
+Wednesday                47 commits          █████░░░░░░░░░░░░░░░░░░░░   20.89 % 
+Thursday                 46 commits          █████░░░░░░░░░░░░░░░░░░░░   20.44 % 
+Friday                   49 commits          █████░░░░░░░░░░░░░░░░░░░░   21.78 % 
 Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
@@ -139,11 +139,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   5 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
-Jinja                    4 repos             ███████░░░░░░░░░░░░░░░░░░   26.67 % 
-Shell                    2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-PLSQL                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Python                   6 repos             █████████░░░░░░░░░░░░░░░░   37.50 % 
+Jinja                    4 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Shell                    2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+PLSQL                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
 ```
 
 
@@ -153,7 +153,7 @@ PLSQL                    1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ellie-scott/ellie-scott/main/assets/bar_graph.png)
 
 
- Last Updated on 25/09/2026 16:45:51 UTC
+ Last Updated on 25/09/2026 21:12:54 UTC
 <!--END_SECTION:waka-->
 
 ---
