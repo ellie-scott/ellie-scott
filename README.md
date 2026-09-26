@@ -120,14 +120,14 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Markdown                 14 mins             ███████████░░░░░░░░░░░░░░   43.05 % 
-Python                   5 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
-YAML                     5 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
-XML                      5 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
-GitIgnore file           1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
+Markdown                 2 hrs 20 mins       ███████████░░░░░░░░░░░░░░   44.09 % 
+Python                   1 hr 52 mins        █████████░░░░░░░░░░░░░░░░   35.28 % 
+Bash                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
+XML                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+Text                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
 
 🔥 Editors: 
-IntelliJ IDEA            33 mins             █████████████████████████   100.00 % 
+IntelliJ IDEA            5 hrs 18 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -153,7 +153,7 @@ PLSQL                    1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ellie-scott/ellie-scott/main/assets/bar_graph.png)
 
 
- Last Updated on 26/09/2026 03:57:39 UTC
+ Last Updated on 26/09/2026 10:58:04 UTC
 <!--END_SECTION:waka-->
 
 ---
