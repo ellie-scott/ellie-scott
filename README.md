@@ -61,11 +61,15 @@ Software developer focused on agentic AI, MCP integration, and building pragmati
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2018%20mins-blue?style=flat)
 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
-> 📦 28.3 kB Used in GitHub's Storage 
+> 📦 28.4 kB Used in GitHub's Storage 
  > 
-> 🏆 255 Contributions in the Year 2026
+> 🏆 258 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
  > 
 > 📜 2 Public Repositories 
  > 
@@ -74,10 +78,21 @@ Software developer focused on agentic AI, MCP integration, and building pragmati
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                54 commits          ██████░░░░░░░░░░░░░░░░░░░   24.00 % 
-🌆 Daytime                150 commits         █████████████████░░░░░░░░   66.67 % 
-🌃 Evening                19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
-🌙 Night                  2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+🌞 Morning                67 commits          ███████░░░░░░░░░░░░░░░░░░   28.88 % 
+🌆 Daytime                144 commits         ████████████████░░░░░░░░░   62.07 % 
+🌃 Evening                19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
+🌙 Night                  2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   47 commits          █████░░░░░░░░░░░░░░░░░░░░   20.26 % 
+Tuesday                  45 commits          █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
+Wednesday                47 commits          █████░░░░░░░░░░░░░░░░░░░░   20.26 % 
+Thursday                 46 commits          █████░░░░░░░░░░░░░░░░░░░░   19.83 % 
+Friday                   47 commits          █████░░░░░░░░░░░░░░░░░░░░   20.26 % 
+Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
 
@@ -97,7 +112,13 @@ Text                     8 mins              █░░░░░░░░░░�
 IntelliJ IDEA            5 hrs 18 mins       █████████████████████████   100.00 % 
 ```
 
-**Language Breakdown** 
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
+**I Mostly Code in Python** 
 
 ```text
 Python                   6 repos             █████████░░░░░░░░░░░░░░░░   37.50 % 
@@ -107,6 +128,13 @@ JavaScript               1 repo              ██░░░░░░░░░�
 PLSQL                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
 ```
 
- Last Updated on 28/09/2026 13:09:38 UTC
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/ellie-scott/ellie-scott/main/assets/bar_graph.png)
+
+
+ Last Updated on 28/09/2026 23:00:43 UTC
 <!--END_SECTION:waka-->
 
