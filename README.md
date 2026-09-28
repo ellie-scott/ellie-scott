@@ -21,30 +21,22 @@ Software developer focused on agentic AI, MCP integration, and building pragmati
 
 ---
 
-### Featured Work (from public repos)
-
-- [`ellie-scott`](https://github.com/ellie-scott/ellie-scott): profile repo with automated WakaTime metrics and dynamic profile visuals.
-- [`github-readme-stats`](https://github.com/ellie-scott/github-readme-stats): fork used for experimenting with readme stat cards and profile customization.
-
-> As more AI projects become public, this section will track my current active work.
-
----
-
 ### Now / Next
 
-- Building: more AI experiments that move from prompt ideas into usable software.
-- Improving: measurable quality checks for outputs, latency, and reliability.
-- Sharing: repeatable patterns that help other developers ship faster.
+- **Building:** Production-ready agents and MCP tools that replace manual enterprise workflows.
+- **Improving:** Eval harnesses, context engineering, and output reliability for LLM systems.
+- **Sharing:** Spec-Driven Development (SDD) patterns and tooling to help dev teams ship faster.
 
 ---
 
 ### What I Ship At Work
 
-- Infrastructure automation for cloud and security platform workflows.
-- Internal apps and forms that support real operational processes.
+- Internal apps, custom browser tools, and core workflow automation.
 - CI/CD and self-hosted runner pipelines for reliable team delivery.
 - Certificate and service integrations that reduce manual ops overhead.
-- Applied AI experiments where they improve developer productivity.
+- Production AI tooling—custom MCP servers, agents, and SDD pipelines.
+- CI/CD build environments and self-hosted runner infrastructure.
+- Cloud infrastructure automation and security platform integrations.
 
 ---
 
@@ -88,8 +80,6 @@ Software developer focused on agentic AI, MCP integration, and building pragmati
  > 
 > 🏆 255 Contributions in the Year 2026
  > 
-> 🚫 Not Opted to Hire
- > 
 > 📜 2 Public Repositories 
  > 
 > 🔑 10 Private Repositories 
@@ -131,12 +121,6 @@ Text                     8 mins              █░░░░░░░░░░�
 IntelliJ IDEA            5 hrs 18 mins       █████████████████████████   100.00 % 
 ```
 
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -157,10 +141,3 @@ PLSQL                    1 repo              ██░░░░░░░░░�
  Last Updated on 28/09/2026 13:09:38 UTC
 <!--END_SECTION:waka-->
 
----
-
-### Motion
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ellie-scott/ellie-scott/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake" />
-</p>
