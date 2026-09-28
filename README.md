@@ -1,4 +1,4 @@
-# Ellie Scott // Building AI in Public
+# Ellie Scott
 
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=00A3AD&background=0D111700&vCenter=true&width=980&lines=Software+Developer+%7C+Automation+%2B+Platform+Tooling;Infra-backed+Apps+%7C+Python+%2B+Terraform+%2B+CI%2FCD;Applied+AI+Experiments+Where+They+Actually+Help" alt="Animated intro text describing Ellie Scott's software developer and automation focus" />
