@@ -60,10 +60,6 @@ Software developer focused on agentic AI, MCP integration, and building pragmati
   <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=ellie-scott&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
   &nbsp;
   <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ellie-scott&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top languages" />
-</p>
-
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=ellie-scott&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
 </p>
 
