@@ -54,15 +54,9 @@ Software developer focused on agentic AI, MCP integration, and building pragmati
 
 ---
 
-### Overview
-
-
+### Live Coding Pulse
   <img src="https://streak-stats.demolab.com?user=ellie-scott&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
 </p>
-
----
-
-### Live Coding Pulse
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2018%20mins-blue?style=flat)
@@ -87,17 +81,6 @@ Software developer focused on agentic AI, MCP integration, and building pragmati
 🌃 Evening                19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
 🌙 Night                  2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 ```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   32 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
-Tuesday                  51 commits          ██████░░░░░░░░░░░░░░░░░░░   22.67 % 
-Wednesday                47 commits          █████░░░░░░░░░░░░░░░░░░░░   20.89 % 
-Thursday                 46 commits          █████░░░░░░░░░░░░░░░░░░░░   20.44 % 
-Friday                   49 commits          █████░░░░░░░░░░░░░░░░░░░░   21.78 % 
-Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
 
 
 📊 **This Week I Spent My Time On** 
@@ -116,7 +99,7 @@ Text                     8 mins              █░░░░░░░░░░�
 IntelliJ IDEA            5 hrs 18 mins       █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in Python** 
+**Language Breakdown** 
 
 ```text
 Python                   6 repos             █████████░░░░░░░░░░░░░░░░   37.50 % 
@@ -125,13 +108,6 @@ Shell                    2 repos             ███░░░░░░░░�
 JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
 PLSQL                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
 ```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/ellie-scott/ellie-scott/main/assets/bar_graph.png)
-
 
  Last Updated on 28/09/2026 13:09:38 UTC
 <!--END_SECTION:waka-->
