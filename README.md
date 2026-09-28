@@ -1,10 +1,11 @@
 # Ellie Scott
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=00A3AD&background=0D111700&vCenter=true&width=980&lines=Software+Developer+%7C+Automation+%2B+Platform+Tooling;Infra-backed+Apps+%7C+Python+%2B+Terraform+%2B+CI%2FCD;Applied+AI+Experiments+Where+They+Actually+Help" alt="Animated intro text describing Ellie Scott's software developer and automation focus" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=900&color=00A3AD&background=0D111700&vCenter=true&width=980&lines=Software+Developer+%7C+BS+Computer+Science+%2B+MS+Info+Systems;Applied+AI+%2B+Automation%3A+Agents%2C+MCP%2C+and+Python+Tooling;Building+streamlined+software+that+kills+manual+friction" alt="Animated intro text describing Ellie Scott's software development and AI focus" />
 </p>
 
-Software developer focused on automation, internal platforms, and practical AI experiments.
+Software developer focused on agentic AI, MCP integration, and building pragmatic tooling that eliminates operational friction.
+
 
 <p align="left">
   <a href="https://github.com/ellie-scott?tab=followers">
