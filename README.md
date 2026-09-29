@@ -102,20 +102,39 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Markdown                 2 hrs 20 mins       ███████████░░░░░░░░░░░░░░   44.09 % 
-Python                   1 hr 52 mins        █████████░░░░░░░░░░░░░░░░   35.28 % 
-Bash                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
-XML                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
-Text                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+Markdown                 4 hrs 51 mins       ██████████████░░░░░░░░░░░   54.50 % 
+Python                   2 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   22.90 % 
+XML                      34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
+Bash                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
+YAML                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
 
 🔥 Editors: 
-IntelliJ IDEA            5 hrs 18 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            8 hrs 43 mins       ████████████████████████░   97.83 % 
+Copilot CLI              8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+Copilot                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 11 mins (2.17%)
+
+✍️ 387 lines written by AI, 2,803 lines written by hand (12.13% AI-written)
+
+🔤 144,796 Input Tokens, 0 Output Tokens
+
+💵 $1.04 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 1 AI Prompts
+
+Opus                     387 lines           █████████████████████████   100.00 % 
+Github-Copilot-Cli       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 12.13% of written lines came from AI
+📚 Verbose Prompter — average 4,420 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 89.31% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -135,6 +154,6 @@ PLSQL                    1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ellie-scott/ellie-scott/main/assets/bar_graph.png)
 
 
- Last Updated on 29/09/2026 04:42:52 UTC
+ Last Updated on 29/09/2026 12:19:06 UTC
 <!--END_SECTION:waka-->
 
