@@ -70,8 +70,6 @@ Software developer focused on agentic AI, MCP integration, and building pragmati
  > 
 > 🏆 264 Contributions in the Year 2026
  > 
-> 🚫 Not Opted to Hire
- > 
 > 📜 2 Public Repositories 
  > 
 > 🔑 10 Private Repositories 
