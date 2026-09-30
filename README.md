@@ -63,7 +63,6 @@ Software developer focused on agentic AI, MCP integration, and building pragmati
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-11%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-161-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
