@@ -59,7 +59,7 @@ Software developer focused on agentic AI, MCP integration, and building pragmati
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-28%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-29%20hrs%2016%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs%2032%20mins-blue?style=flat)
 
@@ -104,24 +104,24 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Markdown                 12 hrs 25 mins      █████████████░░░░░░░░░░░░   52.68 % 
-Python                   5 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   23.35 % 
-HTML                     1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
-Text                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
-Bash                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+Markdown                 12 hrs 35 mins      █████████████░░░░░░░░░░░░   52.49 % 
+Python                   5 hrs 32 mins       ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
+HTML                     1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
+Text                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
+Bash                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
 
 🔥 Editors: 
-IntelliJ IDEA            18 hrs 57 mins      ████████████████████░░░░░   80.35 % 
-Copilot CLI              2 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
-Copilot                  2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
+IntelliJ IDEA            19 hrs 20 mins      ████████████████████░░░░░   80.67 % 
+Copilot CLI              2 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
+Copilot                  2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 33 mins (27.82%)
+⏱ AI Coding Time: 6 hrs 33 mins (27.37%)
 
-✍️ 8,075 lines written by AI, 9,169 lines written by hand (46.83% AI-written)
+✍️ 8,075 lines written by AI, 9,227 lines written by hand (46.67% AI-written)
 
 🔤 4,127,256 Input Tokens, 125,560 Output Tokens
 
@@ -133,10 +133,10 @@ Opus                     8,085 lines         ███████████�
 Github-Copilot-Cli       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 46.83% of written lines came from AI
+⚖️ Balanced with AI — 46.67% of written lines came from AI
 📄 Detailed Prompter — average 822 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 74.9% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 74.94% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -156,6 +156,6 @@ PLSQL                    1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ellie-scott/ellie-scott/main/assets/bar_graph.png)
 
 
- Last Updated on 04/10/2026 04:45:21 UTC
+ Last Updated on 04/10/2026 11:54:57 UTC
 <!--END_SECTION:waka-->
 
