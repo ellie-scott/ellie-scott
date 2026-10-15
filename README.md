@@ -67,9 +67,9 @@ Software developer focused on agentic AI, MCP integration, and building pragmati
 
 **🐱 My GitHub Data** 
 
-> 📦 45.1 kB Used in GitHub's Storage 
+> 📦 45.2 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2026
+> 🏆 307 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -80,19 +80,19 @@ Software developer focused on agentic AI, MCP integration, and building pragmati
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                154 commits         █████░░░░░░░░░░░░░░░░░░░░   20.26 % 
-🌆 Daytime                513 commits         █████████████████░░░░░░░░   67.50 % 
-🌃 Evening                91 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
+🌞 Morning                156 commits         █████░░░░░░░░░░░░░░░░░░░░   20.39 % 
+🌆 Daytime                516 commits         █████████████████░░░░░░░░   67.45 % 
+🌃 Evening                91 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
 🌙 Night                  2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   91 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
-Tuesday                  114 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-Wednesday                187 commits         ██████░░░░░░░░░░░░░░░░░░░   24.61 % 
-Thursday                 121 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
-Friday                   245 commits         ████████░░░░░░░░░░░░░░░░░   32.24 % 
+Monday                   91 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
+Tuesday                  116 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
+Wednesday                187 commits         ██████░░░░░░░░░░░░░░░░░░░   24.44 % 
+Thursday                 122 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
+Friday                   247 commits         ████████░░░░░░░░░░░░░░░░░   32.29 % 
 Saturday                 2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
@@ -156,6 +156,6 @@ PLSQL                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ellie-scott/ellie-scott/main/assets/bar_graph.png)
 
 
- Last Updated on 15/10/2026 16:29:38 UTC
+ Last Updated on 15/10/2026 21:02:38 UTC
 <!--END_SECTION:waka-->
 
