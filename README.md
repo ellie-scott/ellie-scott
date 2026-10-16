@@ -80,19 +80,19 @@ Software developer focused on agentic AI, MCP integration, and building pragmati
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                156 commits         █████░░░░░░░░░░░░░░░░░░░░   20.39 % 
-🌆 Daytime                516 commits         █████████████████░░░░░░░░   67.45 % 
-🌃 Evening                91 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
+🌞 Morning                154 commits         █████░░░░░░░░░░░░░░░░░░░░   20.21 % 
+🌆 Daytime                515 commits         █████████████████░░░░░░░░   67.59 % 
+🌃 Evening                91 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
 🌙 Night                  2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   91 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
-Tuesday                  116 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
-Wednesday                187 commits         ██████░░░░░░░░░░░░░░░░░░░   24.44 % 
-Thursday                 122 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
-Friday                   247 commits         ████████░░░░░░░░░░░░░░░░░   32.29 % 
+Monday                   91 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
+Tuesday                  116 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
+Wednesday                187 commits         ██████░░░░░░░░░░░░░░░░░░░   24.54 % 
+Thursday                 121 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
+Friday                   245 commits         ████████░░░░░░░░░░░░░░░░░   32.15 % 
 Saturday                 2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
@@ -156,6 +156,6 @@ PLSQL                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ellie-scott/ellie-scott/main/assets/bar_graph.png)
 
 
- Last Updated on 16/10/2026 10:54:32 UTC
+ Last Updated on 16/10/2026 16:14:56 UTC
 <!--END_SECTION:waka-->
 
