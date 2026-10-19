@@ -69,7 +69,7 @@ Software developer focused on agentic AI, MCP integration, and building pragmati
 
 > 📦 45.2 kB Used in GitHub's Storage 
  > 
-> 🏆 307 Contributions in the Year 2026
+> 🏆 316 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -80,20 +80,20 @@ Software developer focused on agentic AI, MCP integration, and building pragmati
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                154 commits         █████░░░░░░░░░░░░░░░░░░░░   20.21 % 
-🌆 Daytime                515 commits         █████████████████░░░░░░░░   67.59 % 
-🌃 Evening                91 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
-🌙 Night                  2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+🌞 Morning                118 commits         █████░░░░░░░░░░░░░░░░░░░░   21.34 % 
+🌆 Daytime                404 commits         ██████████████████░░░░░░░   73.06 % 
+🌃 Evening                29 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
+🌙 Night                  2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 ```
-📅 **I'm Most Productive on Friday** 
+📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   91 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
-Tuesday                  116 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
-Wednesday                187 commits         ██████░░░░░░░░░░░░░░░░░░░   24.54 % 
-Thursday                 121 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
-Friday                   245 commits         ████████░░░░░░░░░░░░░░░░░   32.15 % 
-Saturday                 2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+Monday                   113 commits         █████░░░░░░░░░░░░░░░░░░░░   20.43 % 
+Tuesday                  84 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
+Wednesday                173 commits         ████████░░░░░░░░░░░░░░░░░   31.28 % 
+Thursday                 87 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
+Friday                   94 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
+Saturday                 2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
@@ -142,11 +142,11 @@ Github-Copilot-Cli       0 lines             ░░░░░░░░░░░�
 **I Mostly Code in Python** 
 
 ```text
-Python                   6 repos             █████████░░░░░░░░░░░░░░░░   35.29 % 
-Jinja                    5 repos             ███████░░░░░░░░░░░░░░░░░░   29.41 % 
-Shell                    2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-PLSQL                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Python                   6 repos             ████████░░░░░░░░░░░░░░░░░   31.58 % 
+Jinja                    6 repos             ████████░░░░░░░░░░░░░░░░░   31.58 % 
+Shell                    2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+PLSQL                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
 ```
 
 
@@ -156,6 +156,6 @@ PLSQL                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ellie-scott/ellie-scott/main/assets/bar_graph.png)
 
 
- Last Updated on 19/10/2026 12:25:23 UTC
+ Last Updated on 19/10/2026 22:05:58 UTC
 <!--END_SECTION:waka-->
 
