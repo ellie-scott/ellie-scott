@@ -59,9 +59,9 @@ Software developer focused on agentic AI, MCP integration, and building pragmati
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-46%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-47%20hrs%2039%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-20%20hrs%2039%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-21%20hrs%2031%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -104,41 +104,41 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Markdown                 6 hrs 41 mins       ████████████░░░░░░░░░░░░░   46.94 % 
-Other                    2 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
-YAML                     1 hr 53 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
-Shell Script             1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
-Bash                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+Markdown                 6 hrs 52 mins       ███████████░░░░░░░░░░░░░░   45.44 % 
+Other                    2 hrs 45 mins       █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
+YAML                     1 hr 53 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
+Shell Script             1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
+Bash                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
 
 🔥 Editors: 
-IntelliJ IDEA            5 hrs 10 mins       █████████░░░░░░░░░░░░░░░░   36.29 % 
-Copilot CLI              5 hrs 2 mins        █████████░░░░░░░░░░░░░░░░   35.35 % 
-Copilot                  4 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   28.36 % 
+IntelliJ IDEA            5 hrs 37 mins       █████████░░░░░░░░░░░░░░░░   37.20 % 
+Copilot CLI              5 hrs 27 mins       █████████░░░░░░░░░░░░░░░░   36.06 % 
+Copilot                  4 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   26.74 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 18 mins (93.35%)
+⏱ AI Coding Time: 14 hrs 10 mins (93.73%)
 
-✍️ 1,002 lines written by AI, 2 lines written by hand (99.8% AI-written)
+✍️ 1,946 lines written by AI, 2 lines written by hand (99.9% AI-written)
 
-🔤 9,864,214 Input Tokens, 247,702 Output Tokens
+🔤 10,574,763 Input Tokens, 262,700 Output Tokens
 
-💵 $48.35 Estimated AI Cost This Week
+💵 $51.55 Estimated AI Cost This Week
 
-🧠 19 AI Sessions, 145 AI Prompts
+🧠 21 AI Sessions, 149 AI Prompts
 
-Opus                     927 lines           ███████████████████████░░   90.44 % 
-Sonnet                   98 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
+Sonnet                   1,042 lines         █████████████░░░░░░░░░░░░   52.92 % 
+Opus                     927 lines           ████████████░░░░░░░░░░░░░   47.08 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.8% of written lines came from AI
-📄 Detailed Prompter — average 903 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 11.26% of changed lines were hand-edited
+🤖 AI-Driven — 99.9% of written lines came from AI
+📄 Detailed Prompter — average 893 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 6.19% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -158,6 +158,6 @@ PLSQL                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ellie-scott/ellie-scott/main/assets/bar_graph.png)
 
 
- Last Updated on 24/10/2026 10:27:57 UTC
+ Last Updated on 24/10/2026 15:32:46 UTC
 <!--END_SECTION:waka-->
 
