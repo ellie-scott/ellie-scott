@@ -104,41 +104,40 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Markdown                 6 hrs 52 mins       ███████████░░░░░░░░░░░░░░   45.44 % 
-Other                    2 hrs 45 mins       █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
-YAML                     1 hr 53 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
-Shell Script             1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
-Bash                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
+Markdown                 3 hrs 56 mins       ███████████░░░░░░░░░░░░░░   42.43 % 
+Other                    2 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   22.80 % 
+Bash                     48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
+Python                   44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
+Shell Script             37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
 
 🔥 Editors: 
-IntelliJ IDEA            5 hrs 37 mins       █████████░░░░░░░░░░░░░░░░   37.20 % 
-Copilot CLI              5 hrs 27 mins       █████████░░░░░░░░░░░░░░░░   36.06 % 
-Copilot                  4 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   26.74 % 
+IntelliJ IDEA            5 hrs 3 mins        ██████████████░░░░░░░░░░░   54.46 % 
+Copilot CLI              3 hrs 5 mins        ████████░░░░░░░░░░░░░░░░░   33.18 % 
+Copilot                  1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 10 mins (93.73%)
+⏱ AI Coding Time: 8 hrs 34 mins (92.15%)
 
-✍️ 1,946 lines written by AI, 2 lines written by hand (99.9% AI-written)
+✍️ 1,042 lines written by AI, 2 lines written by hand (99.81% AI-written)
 
-🔤 10,574,763 Input Tokens, 262,700 Output Tokens
+🔤 6,135,176 Input Tokens, 229,728 Output Tokens
 
-💵 $51.55 Estimated AI Cost This Week
+💵 $30.37 Estimated AI Cost This Week
 
-🧠 21 AI Sessions, 149 AI Prompts
+🧠 18 AI Sessions, 105 AI Prompts
 
-Sonnet                   1,042 lines         █████████████░░░░░░░░░░░░   52.92 % 
-Opus                     927 lines           ████████████░░░░░░░░░░░░░   47.08 % 
+Sonnet                   1,042 lines         ███████████████████████░░   91.48 % 
+Opus                     97 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.9% of written lines came from AI
-📄 Detailed Prompter — average 893 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 6.19% of changed lines were hand-edited
+🤖 AI-Driven — 99.81% of written lines came from AI
+📄 Detailed Prompter — average 589 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 11.09% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -158,6 +157,6 @@ PLSQL                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ellie-scott/ellie-scott/main/assets/bar_graph.png)
 
 
- Last Updated on 27/10/2026 11:45:20 UTC
+ Last Updated on 27/10/2026 17:38:34 UTC
 <!--END_SECTION:waka-->
 
