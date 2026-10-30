@@ -104,39 +104,38 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Markdown                 2 hrs               ███████████░░░░░░░░░░░░░░   44.63 % 
-Bash                     38 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
-Python                   30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
-Other                    28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
-GitIgnore file           27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
+HTML                     19 mins             █████████░░░░░░░░░░░░░░░░   37.55 % 
+Python                   15 mins             ████████░░░░░░░░░░░░░░░░░   30.11 % 
+Markdown                 10 mins             █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
+Other                    5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
+Shell Script             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
 
 🔥 Editors: 
-IntelliJ IDEA            2 hrs 41 mins       ███████████████░░░░░░░░░░   59.78 % 
-Copilot CLI              1 hr 48 mins        ██████████░░░░░░░░░░░░░░░   40.22 % 
+IntelliJ IDEA            27 mins             █████████████░░░░░░░░░░░░   52.26 % 
+Copilot CLI              24 mins             ████████████░░░░░░░░░░░░░   47.74 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 57 mins (87.83%)
+⏱ AI Coding Time: 51 mins (100.0%)
 
 ✍️ 944 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 2,748,140 Input Tokens, 149,104 Output Tokens
+🔤 710,549 Input Tokens, 14,998 Output Tokens
 
-💵 $11.68 Estimated AI Cost This Week
+💵 $3.20 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 41 AI Prompts
+🧠 2 AI Sessions, 4 AI Prompts
 
 Sonnet                   944 lines           █████████████████████████   100.00 % 
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 540 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 11.86% of changed lines were hand-edited
+📄 Detailed Prompter — average 546 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -156,6 +155,6 @@ PLSQL                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ellie-scott/ellie-scott/main/assets/bar_graph.png)
 
 
- Last Updated on 30/10/2026 04:46:37 UTC
+ Last Updated on 30/10/2026 12:19:32 UTC
 <!--END_SECTION:waka-->
 
