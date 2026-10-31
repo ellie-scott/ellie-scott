@@ -104,38 +104,16 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-HTML                     19 mins             █████████░░░░░░░░░░░░░░░░   37.55 % 
-Python                   15 mins             ████████░░░░░░░░░░░░░░░░░   30.11 % 
-Markdown                 10 mins             █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
-Other                    5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
-Shell Script             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            27 mins             █████████████░░░░░░░░░░░░   52.26 % 
-Copilot CLI              24 mins             ████████████░░░░░░░░░░░░░   47.74 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 51 mins (100.0%)
-
-✍️ 944 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 710,549 Input Tokens, 14,998 Output Tokens
-
-💵 $3.20 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 4 AI Prompts
-
-Sonnet                   944 lines           █████████████████████████   100.00 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 546 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -155,6 +133,6 @@ PLSQL                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ellie-scott/ellie-scott/main/assets/bar_graph.png)
 
 
- Last Updated on 31/10/2026 04:30:55 UTC
+ Last Updated on 31/10/2026 11:50:23 UTC
 <!--END_SECTION:waka-->
 
