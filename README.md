@@ -63,7 +63,7 @@ Software developer focused on agentic AI, MCP integration, and building pragmati
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-23%20hrs%2050%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -104,39 +104,39 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Markdown                 2 hrs 23 mins       ██████████████░░░░░░░░░░░   55.75 % 
-Perl                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
-Text                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
-TOML                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
-CSV/TSV                  14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
+Markdown                 6 hrs 4 mins        █████████████████░░░░░░░░   68.23 % 
+Python                   36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
+Perl                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
+Text                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+Bash                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
 
 🔥 Editors: 
-IntelliJ IDEA            3 hrs 34 mins       █████████████████████░░░░   83.43 % 
-Copilot CLI              42 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
+IntelliJ IDEA            8 hrs 8 mins        ███████████████████████░░   91.63 % 
+Copilot CLI              44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 19 mins (54.04%)
+⏱ AI Coding Time: 2 hrs 39 mins (29.97%)
 
-✍️ 282 lines written by AI, 295 lines written by hand (48.87% AI-written)
+✍️ 282 lines written by AI, 2,768 lines written by hand (9.25% AI-written)
 
-🔤 1,153,535 Input Tokens, 20,594 Output Tokens
+🔤 58,229,530 Input Tokens, 4,980,937 Output Tokens
 
-💵 $5.73 Estimated AI Cost This Week
+💵 $270.19 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 29 AI Prompts
+🧠 13 AI Sessions, 29 AI Prompts
 
 GPT                      210 lines           ███████████████████░░░░░░   74.47 % 
 Sonnet                   72 lines            ██████░░░░░░░░░░░░░░░░░░░   25.53 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 48.87% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 9.25% of written lines came from AI
 📄 Detailed Prompter — average 753 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🔍 Hands-On Reviewer — 73.79% of changed lines were hand-edited
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 96.54% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -156,6 +156,6 @@ PLSQL                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ellie-scott/ellie-scott/main/assets/bar_graph.png)
 
 
- Last Updated on 14/11/2026 05:21:48 UTC
+ Last Updated on 14/11/2026 13:07:11 UTC
 <!--END_SECTION:waka-->
 
