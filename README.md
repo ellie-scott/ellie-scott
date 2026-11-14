@@ -67,7 +67,7 @@ Software developer focused on agentic AI, MCP integration, and building pragmati
 
 **🐱 My GitHub Data** 
 
-> 📦 108.8 kB Used in GitHub's Storage 
+> 📦 108.9 kB Used in GitHub's Storage 
  > 
 > 🏆 401 Contributions in the Year 2026
  > 
@@ -156,6 +156,6 @@ PLSQL                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ellie-scott/ellie-scott/main/assets/bar_graph.png)
 
 
- Last Updated on 13/11/2026 23:20:51 UTC
+ Last Updated on 14/11/2026 05:21:48 UTC
 <!--END_SECTION:waka-->
 
