@@ -104,23 +104,23 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Markdown                 6 hrs 4 mins        █████████████████░░░░░░░░   68.23 % 
-Python                   36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
-Perl                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
-Text                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
-Bash                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
+Markdown                 6 hrs 4 mins        █████████████████░░░░░░░░   67.14 % 
+Python                   42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
+Text                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
+Perl                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+Bash                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
 
 🔥 Editors: 
-IntelliJ IDEA            8 hrs 8 mins        ███████████████████████░░   91.63 % 
-Copilot CLI              44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
+IntelliJ IDEA            8 hrs 17 mins       ███████████████████████░░   91.77 % 
+Copilot CLI              44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 39 mins (29.97%)
+⏱ AI Coding Time: 2 hrs 39 mins (29.49%)
 
-✍️ 282 lines written by AI, 2,768 lines written by hand (9.25% AI-written)
+✍️ 282 lines written by AI, 2,933 lines written by hand (8.77% AI-written)
 
 🔤 58,229,530 Input Tokens, 4,980,937 Output Tokens
 
@@ -133,10 +133,10 @@ Sonnet                   72 lines            ██████░░░░░�
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 9.25% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 8.77% of written lines came from AI
 📄 Detailed Prompter — average 753 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 96.54% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 96.65% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -156,6 +156,6 @@ PLSQL                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ellie-scott/ellie-scott/main/assets/bar_graph.png)
 
 
- Last Updated on 15/11/2026 05:17:43 UTC
+ Last Updated on 15/11/2026 13:36:42 UTC
 <!--END_SECTION:waka-->
 
