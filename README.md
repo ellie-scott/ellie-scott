@@ -59,7 +59,7 @@ Software developer focused on agentic AI, MCP integration, and building pragmati
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-56%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-56%20hrs%2027%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-24%20hrs%2011%20mins-blue?style=flat)
 
@@ -156,6 +156,6 @@ PLSQL                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ellie-scott/ellie-scott/main/assets/bar_graph.png)
 
 
- Last Updated on 15/11/2026 13:36:42 UTC
+ Last Updated on 15/11/2026 22:34:51 UTC
 <!--END_SECTION:waka-->
 
