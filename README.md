@@ -104,39 +104,39 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Markdown                 6 hrs 13 mins       ████████████████░░░░░░░░░   62.49 % 
-Perl                     50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
-Python                   42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
-Text                     41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
-Bash                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+Markdown                 8 hrs 4 mins        ████████████████░░░░░░░░░   65.06 % 
+Python                   57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
+Perl                     52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
+Text                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
+Other                    21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
 
 🔥 Editors: 
-IntelliJ IDEA            8 hrs 46 mins       ██████████████████████░░░   88.05 % 
-Copilot CLI              1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
+IntelliJ IDEA            8 hrs 55 mins       ██████████████████░░░░░░░   71.92 % 
+Copilot CLI              3 hrs 29 mins       ███████░░░░░░░░░░░░░░░░░░   28.08 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 8 mins (31.45%)
+⏱ AI Coding Time: 5 hrs 28 mins (44.14%)
 
-✍️ 474 lines written by AI, 2,933 lines written by hand (13.91% AI-written)
+✍️ 677 lines written by AI, 2,933 lines written by hand (18.75% AI-written)
 
 🔤 58,269,949 Input Tokens, 4,981,128 Output Tokens
 
 💵 $270.28 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 34 AI Prompts
+🧠 19 AI Sessions, 75 AI Prompts
 
-Sonnet                   264 lines           ██████████████░░░░░░░░░░░   55.70 % 
-GPT                      210 lines           ███████████░░░░░░░░░░░░░░   44.30 % 
+Sonnet                   603 lines           ███████████████████░░░░░░   74.17 % 
+GPT                      210 lines           ██████░░░░░░░░░░░░░░░░░░░   25.83 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 13.91% of written lines came from AI
-📄 Detailed Prompter — average 775 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 94.5% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 18.75% of written lines came from AI
+📄 Detailed Prompter — average 526 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🔍 Hands-On Reviewer — 90.92% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -156,6 +156,6 @@ PLSQL                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ellie-scott/ellie-scott/main/assets/bar_graph.png)
 
 
- Last Updated on 18/11/2026 00:41:15 UTC
+ Last Updated on 18/11/2026 15:17:36 UTC
 <!--END_SECTION:waka-->
 
