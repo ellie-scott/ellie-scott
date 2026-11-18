@@ -59,9 +59,9 @@ Software developer focused on agentic AI, MCP integration, and building pragmati
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-56%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-57%20hrs%2022%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-24%20hrs%2011%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-24%20hrs%2039%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue?style=flat)
 
@@ -69,7 +69,7 @@ Software developer focused on agentic AI, MCP integration, and building pragmati
 
 > 📦 109.4 kB Used in GitHub's Storage 
  > 
-> 🏆 405 Contributions in the Year 2026
+> 🏆 410 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -80,20 +80,20 @@ Software developer focused on agentic AI, MCP integration, and building pragmati
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                178 commits         ██████░░░░░░░░░░░░░░░░░░░   25.54 % 
-🌆 Daytime                489 commits         ██████████████████░░░░░░░   70.16 % 
-🌃 Evening                28 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
-🌙 Night                  2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+🌞 Morning                244 commits         ███████░░░░░░░░░░░░░░░░░░   28.50 % 
+🌆 Daytime                579 commits         █████████████████░░░░░░░░   67.64 % 
+🌃 Evening                31 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
+🌙 Night                  2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 ```
-📅 **I'm Most Productive on Wednesday** 
+📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   98 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
-Tuesday                  144 commits         █████░░░░░░░░░░░░░░░░░░░░   20.66 % 
-Wednesday                192 commits         ███████░░░░░░░░░░░░░░░░░░   27.55 % 
-Thursday                 130 commits         █████░░░░░░░░░░░░░░░░░░░░   18.65 % 
-Friday                   130 commits         █████░░░░░░░░░░░░░░░░░░░░   18.65 % 
-Saturday                 3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+Monday                   113 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
+Tuesday                  219 commits         ██████░░░░░░░░░░░░░░░░░░░   25.58 % 
+Wednesday                213 commits         ██████░░░░░░░░░░░░░░░░░░░   24.88 % 
+Thursday                 154 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
+Friday                   154 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
+Saturday                 3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
@@ -156,6 +156,6 @@ PLSQL                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ellie-scott/ellie-scott/main/assets/bar_graph.png)
 
 
- Last Updated on 17/11/2026 15:39:05 UTC
+ Last Updated on 18/11/2026 00:41:15 UTC
 <!--END_SECTION:waka-->
 
