@@ -67,9 +67,9 @@ Software developer focused on agentic AI, MCP integration, and building pragmati
 
 **🐱 My GitHub Data** 
 
-> 📦 109.4 kB Used in GitHub's Storage 
+> 📦 109.5 kB Used in GitHub's Storage 
  > 
-> 🏆 411 Contributions in the Year 2026
+> 🏆 413 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -80,19 +80,19 @@ Software developer focused on agentic AI, MCP integration, and building pragmati
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                251 commits         ███████░░░░░░░░░░░░░░░░░░   29.12 % 
-🌆 Daytime                578 commits         █████████████████░░░░░░░░   67.05 % 
+🌞 Morning                246 commits         ███████░░░░░░░░░░░░░░░░░░   28.60 % 
+🌆 Daytime                581 commits         █████████████████░░░░░░░░   67.56 % 
 🌃 Evening                31 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
 🌙 Night                  2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   112 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
-Tuesday                  219 commits         ██████░░░░░░░░░░░░░░░░░░░   25.41 % 
-Wednesday                213 commits         ██████░░░░░░░░░░░░░░░░░░░   24.71 % 
-Thursday                 162 commits         █████░░░░░░░░░░░░░░░░░░░░   18.79 % 
-Friday                   153 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
+Monday                   112 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
+Tuesday                  219 commits         ██████░░░░░░░░░░░░░░░░░░░   25.47 % 
+Wednesday                213 commits         ██████░░░░░░░░░░░░░░░░░░░   24.77 % 
+Thursday                 160 commits         █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
+Friday                   153 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
 Saturday                 3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
@@ -142,11 +142,11 @@ Opus                     0 lines             ░░░░░░░░░░░�
 **I Mostly Code in Python** 
 
 ```text
-Python                   7 repos             ████████░░░░░░░░░░░░░░░░░   30.43 % 
-Jinja                    6 repos             ███████░░░░░░░░░░░░░░░░░░   26.09 % 
-Shell                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-PLSQL                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+Python                   7 repos             ███████░░░░░░░░░░░░░░░░░░   29.17 % 
+Jinja                    6 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Shell                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+PLSQL                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
 ```
 
 
@@ -156,6 +156,6 @@ PLSQL                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ellie-scott/ellie-scott/main/assets/bar_graph.png)
 
 
- Last Updated on 19/11/2026 20:06:03 UTC
+ Last Updated on 20/11/2026 06:06:38 UTC
 <!--END_SECTION:waka-->
 
