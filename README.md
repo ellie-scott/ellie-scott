@@ -104,23 +104,23 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Java                     4 hrs 40 mins       ██████████░░░░░░░░░░░░░░░   39.09 % 
-Markdown                 2 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   20.79 % 
-Perl                     2 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
-Other                    50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
-Text                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
+Java                     4 hrs 40 mins       ██████████░░░░░░░░░░░░░░░   39.57 % 
+Markdown                 2 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   21.04 % 
+Perl                     2 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
+Other                    50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
+Text                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
 
 🔥 Editors: 
-IntelliJ IDEA            7 hrs 24 mins       ███████████████░░░░░░░░░░   61.82 % 
-Copilot CLI              4 hrs 34 mins       ██████████░░░░░░░░░░░░░░░   38.18 % 
+IntelliJ IDEA            7 hrs 15 mins       ███████████████░░░░░░░░░░   61.35 % 
+Copilot CLI              4 hrs 34 mins       ██████████░░░░░░░░░░░░░░░   38.65 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 43 mins (72.91%)
+⏱ AI Coding Time: 8 hrs 43 mins (73.8%)
 
-✍️ 444 lines written by AI, 177 lines written by hand (71.5% AI-written)
+✍️ 444 lines written by AI, 12 lines written by hand (97.37% AI-written)
 
 🔤 1,351,766 Input Tokens, 174,835 Output Tokens
 
@@ -134,10 +134,10 @@ Intellijidea             0 lines             ░░░░░░░░░░░�
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 71.5% of written lines came from AI
+🤖 AI-Driven — 97.37% of written lines came from AI
 📄 Detailed Prompter — average 588 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 39.62% of changed lines were hand-edited
+🚀 High AI Trust — 20.34% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -157,6 +157,6 @@ PLSQL                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ellie-scott/ellie-scott/main/assets/bar_graph.png)
 
 
- Last Updated on 22/11/2026 05:33:26 UTC
+ Last Updated on 22/11/2026 14:14:17 UTC
 <!--END_SECTION:waka-->
 
