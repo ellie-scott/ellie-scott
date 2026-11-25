@@ -59,9 +59,9 @@ Software developer focused on agentic AI, MCP integration, and building pragmati
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-71%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-79%20hrs%2038%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-38%20hrs%206%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-47%20hrs%2010%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue?style=flat)
 
@@ -80,20 +80,20 @@ Software developer focused on agentic AI, MCP integration, and building pragmati
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                182 commits         ███████░░░░░░░░░░░░░░░░░░   29.59 % 
-🌆 Daytime                384 commits         ████████████████░░░░░░░░░   62.44 % 
-🌃 Evening                47 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
-🌙 Night                  2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+🌞 Morning                186 commits         ████████░░░░░░░░░░░░░░░░░   30.05 % 
+🌆 Daytime                384 commits         ████████████████░░░░░░░░░   62.04 % 
+🌃 Evening                47 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
+🌙 Night                  2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   118 commits         █████░░░░░░░░░░░░░░░░░░░░   19.19 % 
-Tuesday                  143 commits         ██████░░░░░░░░░░░░░░░░░░░   23.25 % 
-Wednesday                120 commits         █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
-Thursday                 116 commits         █████░░░░░░░░░░░░░░░░░░░░   18.86 % 
-Friday                   115 commits         █████░░░░░░░░░░░░░░░░░░░░   18.70 % 
-Saturday                 3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+Monday                   118 commits         █████░░░░░░░░░░░░░░░░░░░░   19.06 % 
+Tuesday                  143 commits         ██████░░░░░░░░░░░░░░░░░░░   23.10 % 
+Wednesday                124 commits         █████░░░░░░░░░░░░░░░░░░░░   20.03 % 
+Thursday                 116 commits         █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
+Friday                   115 commits         █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
+Saturday                 3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
@@ -104,40 +104,39 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Java                     6 hrs 46 mins       ██████████░░░░░░░░░░░░░░░   40.95 % 
-Markdown                 2 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
-Perl                     2 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
-Other                    1 hr 59 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
-XML                      1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
+Java                     7 hrs 35 mins       ████████░░░░░░░░░░░░░░░░░   30.24 % 
+Perl                     5 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   21.84 % 
+Markdown                 4 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
+Other                    3 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
+Text                     2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
 
 🔥 Editors: 
-IntelliJ IDEA            10 hrs 43 mins      ████████████████░░░░░░░░░   64.85 % 
-Copilot CLI              5 hrs 48 mins       █████████░░░░░░░░░░░░░░░░   35.15 % 
+IntelliJ IDEA            20 hrs              ████████████████████░░░░░   79.64 % 
+Copilot CLI              5 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   20.36 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 27 mins (81.39%)
+⏱ AI Coding Time: 21 hrs 53 mins (87.16%)
 
-✍️ 763 lines written by AI, 12 lines written by hand (98.45% AI-written)
+✍️ 1,355 lines written by AI, 12 lines written by hand (99.12% AI-written)
 
-🔤 4,720,469 Input Tokens, 420,321 Output Tokens
+🔤 27,608,825 Input Tokens, 1,974,550 Output Tokens
 
-💵 $291.13 Estimated AI Cost This Week
+💵 $164.07 Estimated AI Cost This Week
 
-🧠 30 AI Sessions, 236 AI Prompts
+🧠 61 AI Sessions, 364 AI Prompts
 
-Sonnet                   664 lines           ███████████████░░░░░░░░░░   58.97 % 
-GPT                      462 lines           ██████████░░░░░░░░░░░░░░░   41.03 % 
+GPT                      1,258 lines         ██████████████████████░░░   87.91 % 
+Sonnet                   173 lines           ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
 Intellijidea             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.45% of written lines came from AI
-📄 Detailed Prompter — average 589 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 14.01% of changed lines were hand-edited
+🤖 AI-Driven — 99.12% of written lines came from AI
+📝 Concise Prompter — average 477 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 9.94% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -157,6 +156,6 @@ PLSQL                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ellie-scott/ellie-scott/main/assets/bar_graph.png)
 
 
- Last Updated on 25/11/2026 07:25:55 UTC
+ Last Updated on 25/11/2026 21:14:05 UTC
 <!--END_SECTION:waka-->
 
